@@ -1,0 +1,42 @@
+body {
+  background-color: rgb(202, 199, 199);
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+h2 {
+  color: rgb(147, 20, 163);
+}
+
+table {
+  border: 2px solid rgb(147, 20, 163);
+  margin: 0 auto;
+  width: 650px;
+}
+
+thead {
+  background-color: rgb(235, 130, 200);
+  font-size: 20px;
+}
+
+.attr {
+  font-family: "Source Code Pro", serif;
+  background-color: rgb(248, 237, 137);
+  font-weight: 400;
+  padding: 4px;
+  text-align: left;
+}
+
+th, td {
+  padding: 5px;
+  border-top: 1px solid rgb(147, 20, 163);
+}
+
+
+
+
+
+
+
